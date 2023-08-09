@@ -1,0 +1,18 @@
+body {
+    background: rgba(190, 165, 247, 0.82);
+}
+
+h1 {
+    color:rgba(8, 8, 8, 0.82);
+    font-family: "Verdana";
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 70%; 
+}
